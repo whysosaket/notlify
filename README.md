@@ -1,4 +1,4 @@
-# Notelify
+# Notlify
 
 A modern note-taking application with AI-powered features built using Spring Boot and React.
 
